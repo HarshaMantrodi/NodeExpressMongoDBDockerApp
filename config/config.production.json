@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 {
     "databaseConfig": {
         "host": "mongodb",
         "database": "funWithDocker"
     }
+=======
+{
+    "databaseConfig": {
+        "host": "mongodb",
+        "database": "funWithDocker"
+    }
+>>>>>>> 07587da31d055484ddcc90ac85d480175f9987e6
 }
